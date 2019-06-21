@@ -1,0 +1,24 @@
+
+body{
+	height:100hw;
+	width:100hw;
+	background-image: url("images/mybackround.png");
+	font-family: "Comfortaa";SS
+	background-size: cover;
+}
+
+.main-box{
+	display:flex;
+	height:50%;
+	width:100%;
+}
+
+.DC{
+	height:100%;
+	width:50%;
+}
+
+.marvel{
+height:100%;
+	width:50%;
+}
